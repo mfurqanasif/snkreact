@@ -148,7 +148,7 @@ export default function Footer() {
                     onMouseOver={e => e.target.style.color = "#0d47a1"}
                     onMouseOut={e => e.target.style.color = "#1976d2"}
                   >
-                    Developed by NJ Softwares Worldwide
+                    Developed by PropPropVenture Softwares
                   </span>
                 </p>
               </div>
