@@ -60,7 +60,7 @@ function DeveloperInfoModal({ onClose }) {
           ×
         </button>
         <img
-          src="/img/IMG_2908.png"
+          src="/a/../../PVS.jpeg"
           alt="Developer Logo"
           style={{
             width: 70,
@@ -86,7 +86,7 @@ function DeveloperInfoModal({ onClose }) {
           </p>
         </div>
         <a
-          href="https://njsoftwares.com"
+          href="#"
           target="_blank"
           rel="noopener noreferrer"
           className="dev-modal-btn"
@@ -102,7 +102,7 @@ function DeveloperInfoModal({ onClose }) {
             transition: "background 0.2s, color 0.2s, box-shadow 0.2s"
           }}
         >
-          Visit Website
+          Website Comming Soon
         </a>
       </div>
     </div>
