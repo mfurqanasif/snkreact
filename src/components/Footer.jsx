@@ -60,7 +60,7 @@ function DeveloperInfoModal({ onClose }) {
           ×
         </button>
         <img
-          src="/a/../../PVS.jpeg"
+          src="/a/PVS.jpeg"
           alt="Developer Logo"
           style={{
             width: 70,
