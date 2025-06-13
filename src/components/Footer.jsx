@@ -14,7 +14,7 @@ export default function Footer() {
             <div className="footer-copyright">
               <p>
                 Copyright © 2023. All Rights Reserved by S.N.K Enterprises.
-                Developed by <a href="/njsoftwares">NJ Softwares Worldwide</a>
+                Developed by <Link to="/njsoftwares" className="blue-link">NJ Softwares Worldwide</Link>
               </p>
             </div>
           </div>
